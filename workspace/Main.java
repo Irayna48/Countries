@@ -3,7 +3,9 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
 import java.io.*;
-
+//Lee Zoe Randriatahina
+// 01/14/2025
+// This code create a geography quiz game that aske questions about certain countries in the world
 public class Main 
 {
 
